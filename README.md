@@ -1,5 +1,5 @@
 # Portfolio Demo Website
-Hi I made this project as my portfolio demo, where I designed my portfolio website using HTML and CSS.
+Hi I made this project as my portfolio demo, where I designed my portfolio website using HTML and CSS. You can see my resume by clicking on the "My Resume" button. Logo is designed by me. I have not added all the tabs(links), will add soon.Not designed for mobile yet, please make sure to open in "Desktop Site" if you are opening on mobile. 
 
 <h1> Link to the project: <br></h1>
   <h4>Have a look at this: </h4>
