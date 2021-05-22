@@ -1,25 +1,20 @@
-# SHAPEAI WEB DEV BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
-<br>I got to have hands on experience on:
-<li>HTML
-<li>CSS
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-www.shapeai.tech
-or follow SHAPEAI on:
-<li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><a
-href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+# Portfolio Demo Website
+Hi I made this project as my portfolio demo, where I designed my portfolio website using HTML and CSS.
+
+<h1> Link to the project: <br></h1>
+  <h4>Have a look at this: </h4>
+  <a href="https://shindepratik-04.github.io/portfolio.github.io/index.html">Portfolio</a>
+
+<br>In this project I have used :
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+<br><br>
+  
+  
+   <h2>You can contact me on: </h2>
+<ul>
+   <li><a href="https://www.linkedin.com/in/pratik-shinde-358168147/">LinkedIn</a></li>
+   <li><a href="https://github.com/shindepratik-04">GitHub</a></li>
+</ul>
